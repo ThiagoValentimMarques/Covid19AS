@@ -6,4 +6,4 @@ Com base nisso, resolvi coletar dados sobre os **(i)** casos confirmados e óbit
 
 Para mais detalhes, basta acessar o meu blog clicando [aqui](https://www.thiagovalentim.me/post/a-covid-19-na-am%C3%A9rica-do-sul/)
 
-![]()
+![](https://github.com/ThiagoValentimMarques/Covid19AS/blob/master/mapa.png?raw=true)
